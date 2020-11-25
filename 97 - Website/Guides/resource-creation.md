@@ -9,11 +9,11 @@
    - An example post can be seen here on the [testing](http://test.technocamps.com/en/resource/artificial-intelligence/) or [live](http://www.technocamps.com/en/resource/artificial-intelligence/) site.
    - Whilst you're editing, you can use `Ctrl + S` to save your changes without posting the material.
 
-2. ## Naming
+1. ## Naming
    - Insert your workshop title
-   - Check the permalink below the title is appropriate and tweak as needed. Shorter is better
+   - If this is an Activity Pack, make sure you include it at the end of the title
 
-3. ## Tags and Categories
+1. ## Tags and Categories
    - ### Tags
    	- Tags are used for the resource's topics
    	- You can include acronyms such as `AI` as well as `Artificial Intelligence`
@@ -26,13 +26,15 @@
 		- For subcategories, use full names
 			- Example: `Activity Packs > Primary Activity Packs`, NOT `Activity Packs > Primary`.
 			- This makes them to work with in other places on the sight.
-		- Add which learner level the material aimed at e.g. `School Level > Secondary > 11+`
+		- Add which learner level the material aimed at e.g. `School Level > Secondary`
 		- If this workshops is also part of a programme, create and/or select that category as well.
 			- If in doubt, ask.
+		- 
 
-5. ## Uploading content
-	- This includes any slides, 
-   - Scroll down to the `Attachments` section of the editor and select `Add new attachment`
+1. ## Uploading content
+	- This includes any slides, workbooks or other supporting materials
+	- Before uploading any content, make sure it's up-to-date, correct and the **correct logos and branding have been used**
+	- Scroll down to the `Attachments` section of the editor and select `Add new attachment`
 	- Create an appropriate folder under `Resources` folder
 		- Example: `Resources > Secondary > Artificial Intelligence > Cymraeg` or `Resources > Activity Packs > Primary > Greenfoot > English`
 		- Look for the stacked folder icon to find the nested folders.
@@ -43,13 +45,13 @@
 	- The `Title` and `Caption` options are what will be displayed for each file attachments section. You can edit these as necessary without breaking links.
 	- Once you have uploaded all of the files, select those you want to attach and click `Add selected attachments`
 
-6. ## Featured image
+1. ## Featured image
    - Create a landscape preview image for the resource
    - Ideal resolution is 1200 x 628 or 1.91:1
    - Upload your the featured image to the **same folder** as the resources with with a name something like `workshop_name_thumbnail.png`
    - Attach featured image to the post.
 
-7. ## Embedding content
+1. ## Embedding content
 	- Embedding PDF Slides
 		- The main slides should be embedded at the bottom of the post
 		- The code below can be added into your post by going into the `Text` editor rather than the `Visual` editor.
@@ -82,8 +84,12 @@
 		- You can put anything you want as the title within the `>...</a>` part of the `<a>` tag in the `<li>`.
 		- If you are embedding videos, you can use the `<iframe>` snippets below and all you have to change is the end part of the `src` property to match whatever your YouTube video's ID is.
 			- e.g.: `src="https://www.youtube.com/embed/..."` 
+1. ## Make sure comments are disabled. 
+1. ## Permalink
+	- Once the post is saved and published. You can edit the permalink.
+	- Check the permalink below the title is appropriate and tweak as needed. Shorter is better/
+1. ## Save, Check, double check, triple check, then `Publish`.
 
-9. ## Save, Check, double check, triple check, then `Publish`.
 
 ---
 
